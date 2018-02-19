@@ -1,0 +1,344 @@
+/**
+*  #09c, #cc9
+*  
+*  
+*/
+
+@font-face {
+	font-family: 'SourceSansPro-ExtraLight';
+	src: url('../SourceSansPro-ExtraLight-webfont.eot');
+	src: url('../SourceSansPro-ExtraLight-webfont.eot?#iefix') format('embedded-opentype'), 
+	     url('../SourceSansPro-ExtraLight-webfont.woff') format('woff'), 
+	     url('../SourceSansPro-ExtraLight-webfont.ttf')  format('truetype'), 
+	     url('../SourceSansPro-ExtraLight-webfont.svg#svgFontName') format('svg'); 
+	}
+        body.hm{
+            background: url('../img/hmbg.png');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+            background-position-y: -15px
+        }     
+        body{
+   
+ 
+    font-family: 'Rajdhani', sans-serif;
+
+    font-family: 'Hammersmith One', sans-serif;
+    font-family: SourceSansPro-ExtraLight, sans-serif;
+     font-family: 'Hind Siliguri', sans-serif;
+         font-family: 'Gudea', sans-serif;
+         font-family: 'Roboto', sans-serif;
+   font-family: 'Maven Pro', sans-serif;
+    font-family: SourceSansPro-ExtraLight, sans-serif;
+    /*color: #333;*/
+    font-size: 1.2em;
+
+}
+body{
+   background: url('../img/bbbsoft.png');
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+  
+ 
+color:#444;
+
+}
+body.receipt{
+    background: none;
+}
+body.reports{
+    font-size: 0.8em;
+}
+div .s{
+    padding: 5px 5px 5px 0;
+}
+div .ralign{
+    float: right;
+}
+/*input,td{
+     font-size:95%;
+}*/
+.input{
+    width:205px;
+}
+a:link{
+    color: #669;
+    text-decoration: none;
+}
+
+a:visited{
+    color: #669;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #333;
+    text-decoration: underline;
+
+}
+
+a:active{
+    color: #1a5252;
+}
+.grid_2.dash,.grid_8{
+   position: relative;
+    top: 20px;
+   
+}
+.grid_8.desc{
+   background: none;
+        
+}
+.grid_2.dash{
+   background: #f5f5f5;
+  
+        
+}
+.grid_2.dash ul{
+  
+  /* font-family: 'lucida grande','calibri','garamond';*/
+        
+ list-style: none;
+ margin: 0;
+ padding: 8px; 
+ border: 1px solid #eee;
+
+} 
+
+.grid_2.dash ul li {
+  margin-top:4px ; 
+  padding:0.1em;
+}
+.grid_2.dash ul li a{
+  text-decoration:none; 
+}
+.grid_2.dash ul li a:link{
+  color:#369; 
+}
+.grid_2.dash ul li a:visited{
+  color:#369;
+}
+.grid_2.dash ul li a:hover{
+  
+  	
+	background:none;
+	text-decoration:underline;
+}
+.grid_2.dash ul li a:active{
+  color:#FF8623;  
+}
+.grid_2.dash ul li a#here{
+  
+  color: #333;
+  border-left: 2px solid orangered;
+  border-top: 1px solid orangered;
+  
+  text-decoration:none; 
+  padding: 3px;
+}
+
+.logo{
+    color:#fff;
+    font-size: 205%;
+    font-family: 'garamond';
+    /*padding: 0.2em;*/
+    float: left;
+    background: #444;
+   
+}
+.logo span.move{
+    position: relative;
+    left: 40px;
+}
+
+.grid_8{
+  
+   background: url('../img/white.png');
+  
+   background-repeat: repeat;
+   min-height:450px;
+   
+}
+.grid_8 form{
+   padding: 0.4em;
+   
+}
+.user{
+     background: none;
+     position: relative;
+     top:5px;
+     font-family: 'lucida grande';
+     font-size: 110%;
+}
+
+.grid_2.dash ul li{
+list-style: none;
+} 
+
+
+/*form styling*/
+
+.form ul li{
+    list-style: none;
+}
+.form input{
+margin-bottom: 2px;
+/*border: 1px solid #eee;*/
+height: 24px;
+
+}
+.ent{
+        height: 26px;
+    width: 205px;
+}
+
+.data{
+   
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+.select{
+    width:205px;
+    height: 28px;
+    /*border: none;*/
+}
+.form input:focus,.form select:focus {
+border: 1px solid #09c;
+}
+.form label{
+font-size: 1.0em;
+color: #666;
+
+}
+label.error{
+ font-size: 0.9em;
+color: #1a5252; 
+font-weight: normal;
+}
+.find{
+padding: 3px;
+border: 1px solid #6c9;
+color: #fff;
+background: #333;
+
+}
+.grid_6.login table{
+    position: relative;
+    left:60px;
+    top:35px;
+}
+
+.grid_8 ul li.h{
+    float: left;
+    padding: 3px;
+}
+
+.rec td,.rec th{
+    padding: 6px;
+    font-size: 0.90em;
+}
+.recc td,.recc th{
+    padding: 6px;
+    font-size: 0.90em;
+}
+.hm_form{
+    position: relative;
+    top: 100px;
+}
+.hm_form input{
+    border: 1px dashed sandybrown;
+}
+.featurette{
+    border:2px solid #444;
+}
+table.table{
+    padding: 5px
+}
+label.cl{
+    color:#fff;
+}
+
+
+.user.acctname{
+     font-size: 0.8em;
+    position: relative;
+    top: 7px;
+}
+.user.acctname a{
+    color: #ccc;
+}
+
+/**/
+form.form, table.table{
+    padding: 9px;
+}
+
+p.msg{
+    color: #99c;
+    font-size: 1.1em;
+    padding: 9px;
+   
+}
+p.err{
+    color: #c33;
+    font-size: 1.0em;
+    
+     
+}
+ul.ui-tabs-nav{
+    padding-right: 0;
+    width: 250px
+}
+
+input,select,textarea{
+    /*background: none;*/
+    border: none;
+    font-family: SourceSansPro-ExtraLight, sans-serif;
+    font-size: 1.0em;
+    
+}
+.listing.sell td{
+    background: #fff;
+}
+
+
+/*items per page styling*/
+span.inactive{
+    font-size: 0.8em
+}
+
+table.totals{
+    margin-left: 10px
+}
+
+
+/*table styling*/
+table tr th{
+   
+    background: snow;
+    color: #333;
+}
+table.rec tbody tr td{
+    border: 1px solid #eee;
+   
+    color: #333;
+}
+
+
+/**/
+html{
+    overflow-x: auto;
+   
+}
+
+.hm_form{
+    position: relative;
+    left: 125px;
+}
+button.find.start{
+    background: #99c;
+    color: snow;
+    padding: 7px;
+    border: none;
+}

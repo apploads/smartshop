@@ -1,0 +1,138 @@
+/**
+*  #09c, #cc9
+*  
+*  
+*/
+body{
+    /*background: #f8fafb;*/
+}
+h2,ul{
+    padding: 0;
+    margin: 0;
+}
+.grid_2.logo img{
+   
+    border:2px solid #1a5252;
+    border-top:none;
+}
+/*ui override*/
+.ui-tabs{
+    padding: 0;
+}
+.dash .ui-widget-content{
+    background: none;
+    border: none;
+    font-family: 'arial',verdana;
+}
+.dash .ui-widget-header,
+.main .ui-widget-header{
+    background: none;
+    border-left: none;
+    border-right: none;
+    border-top:none;
+    font-family: 'ms sans-serif',arial;
+    
+}
+.dash h2.ui-widget-header,
+.main .ui-widget-header{
+    border:none;
+    color:#333;
+    font-weight: normal;
+    position: relative;
+    left: 7px;
+    font-size: 1.4em;
+    font-family: 'ms sans serif';
+    
+    
+}
+.ui-tabs-nav{
+    border-radius:0;
+}
+/*form styling*/
+.form input#submit{
+padding: 4px;
+border: 1px solid #6c9;
+background:#eee;
+}
+
+.form input{
+margin-bottom: 2px;
+border: 1px solid pink;
+}
+.form input:focus,.form select:focus {
+border: 1px solid #09c;
+}
+
+.form label{
+font-size: 0.9em;
+}
+
+.login{
+    border:none;
+}
+.workarea{
+    border-left:1px solid #eee;
+    min-height: 250px;
+}
+.dash{
+    border-left: 1px solid #eee;
+    /*-moz-border-radius: 5px 5px 5px 5px;
+    -moz-box-shadow: 0 1px 3px #DDDDDD;
+    background-color: #F8FAFB;*/
+     /*background: -moz-linear-gradient(270deg, #FCFCFC, #ECECEC) repeat scroll 0 0 transparent;*/
+    
+}
+.dash ul li{
+    list-style: none;
+   padding: 3px;
+}
+.dash ul{
+    padding: 9px;
+    position: relative;
+    left:6px;
+    margin-bottom: 25px;
+}
+.grid_7 span.acc{
+    float: right;
+    font-weight: bold;
+    position: relative;
+    top: 7px;
+}
+.grid_7 span.post{
+    position: relative;
+    top:25px;
+}
+/*form styling*/
+.form input#submit{
+padding: 4px;
+border: 1px solid #6c9;
+background: #1a5252;
+color: #fff;
+}
+
+.form input,.form textarea{
+margin-bottom: 2px;
+border: 1px solid #eee;
+}
+.form input:focus,.form select:focus,.form textarea:focus {
+border: 1px solid #09c;
+}
+
+.form label{
+font-size: 0.9em;
+}
+.find{
+padding: 3px;
+border: 1px solid #6c9;
+color: #fff;
+background: #1a5252;
+}
+.form.reset{
+    position: relative;
+    top:25px;
+}
+
+.grid_7 .grid_3{
+    position: relative;
+    top:55px;
+}

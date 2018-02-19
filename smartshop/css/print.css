@@ -1,0 +1,329 @@
+/**
+*  #09c, #cc9
+*  
+*  
+*/
+/**
+*  12 Column Grid 
+*  Author: Bamidele Silas
+*  Author URI: netcollar.com
+*/
+
+body {
+margin: 0 auto;
+padding-left:50%;
+}
+
+#container{
+
+overflow: hidden;
+margin-top: 0;
+width: 960px;
+voice-family:"\"}\"";
+voice-family:inherit;
+width: 960px;
+margin-left: -480px;
+
+
+}
+html>body#container{
+width: 960px;
+}
+
+a {
+ outline: none;
+}
+
+/**the grids*/
+.grid_1,
+.grid_2,
+.grid_3,
+.grid_4,
+.grid_5,
+.grid_6,
+.grid_7,
+.grid_8,
+.grid_9,
+.grid_10,
+.grid_11,
+.grid_12 {
+  display: inline;
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+  /*border: 1px dotted #ccc;*/
+  min-height: 30px;
+  margin-bottom: 20px;
+}
+.grid_12{  
+    
+    width: 940px;
+    
+}
+.grid_11{
+   
+    min-height: 30px;
+    width: 858px;
+   
+ 
+}
+.grid_10{
+    
+    min-height: 30px;
+    width: 778px;
+ 
+}
+.grid_9{
+   
+    min-height: 30px;
+    width: 698px;
+    
+}
+.grid_8{
+   
+    min-height: 30px;
+    width: 618px;
+    
+}
+.grid_7{
+    
+    min-height: 30px;
+    width: 538px;
+   
+}
+.grid_6{
+   
+    min-height: 30px;
+    width: 458px;
+    
+}
+.grid_5{
+  
+    min-height: 30px;
+    width: 378px;
+     
+}
+.grid_4{
+   
+    min-height: 30px;
+    width: 298px;
+    
+}
+.grid_3{
+    
+    min-height: 30px;
+    width: 218px;
+     
+}
+.grid_2{
+    
+    min-height: 30px;
+    width: 138px;
+  
+}
+.grid_1{
+    
+    min-height: 30px;
+    width: 58px;
+    
+}
+/*clear float*/
+.clear{
+    clear: left;
+}
+/* */
+ul,h2{
+    margin: 0;
+    padding: 0;
+}
+img{
+    border: none;
+}
+
+
+/*Default link styles*/
+body{
+    background: #fefefe;
+    font-size:80%;
+font-family: 'lucida grande','ms sans serif';
+color:#444;
+
+}
+
+a:link{
+    color: #669;
+    text-decoration: none;
+}
+
+a:visited{
+    color: #669;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #333;
+    text-decoration: underline;
+
+}
+
+a:active{
+    color: #1a5252;
+}
+.grid_2.dash,.grid_8{
+   /*position: relative;
+    top: 20px;*/
+   
+}
+.grid_8.desc{
+   background: none;
+        
+}
+.grid_2.dash{
+   background: #f5f5f5;
+        
+}
+.grid_2.dash ul{
+  
+   padding: 2px;
+   font-family: 'lucida grande','calibri','garamond';
+   /*font-size: 120%;*/      
+}
+
+.grid_2.dash ul li {
+  margin-top:4px ; 
+}
+.grid_2.dash ul li a{
+  text-decoration:none; 
+}
+.grid_2.dash ul li a:link{
+  color:#369; 
+}
+.grid_2.dash ul li a:visited{
+  color:#369;
+}
+.grid_2.dash ul li a:hover{
+  padding:2px;
+  	
+	background:none;
+	text-decoration:underline;
+}
+.grid_2.dash ul li a:active{
+  color:#FF8623;  
+}
+.grid_2.dash ul li a#here{
+  border:2px solid #FF8623;
+  text-decoration:none;
+  padding:3px;
+  background: #fff;
+ 
+}
+
+.logo{
+    color:#fff;
+    font-size: 205%;
+    font-family: 'garamond';
+    /*padding: 0.2em;*/
+    float: left;
+    background: #444;
+   
+}
+.logo span.move{
+    position: relative;
+    left: 40px;
+}
+
+.grid_8{
+   background: #f8fafb; 
+   min-height:450px;
+   
+}
+.grid_8 form{
+   padding: 0.4em;
+   
+}
+.user{
+     background: none;
+     position: relative;
+     top:5px;
+     font-family: 'lucida grande';
+     font-size: 110%;
+}
+
+.grid_2.dash ul li{
+list-style: none;
+} 
+
+
+/*form styling*/
+.form input#submit{
+padding: 4px;
+border: 1px solid #6c9;
+
+}
+.form ul li{
+    list-style: none;
+}
+.form input{
+margin-bottom: 2px;
+border: 1px solid pink;
+height: 24px;
+
+}
+.fields{
+    width: 60px;
+}
+.input{
+    width:205px;
+}
+.select{
+    width:205px;
+    height: 28px;
+}
+.form input:focus,.form select:focus {
+border: 1px solid #09c;
+}
+
+label.error{
+ font-size: 0.9em;
+color: #1a5252; 
+font-weight: normal;
+}
+.find{
+padding: 3px;
+border: 1px solid #6c9;
+color: #fff;
+background: #1a5252;
+
+}
+.grid_6.login table{
+    position: relative;
+    left:60px;
+    top:35px;
+}
+
+
+
+span.a{
+   position: relative;
+   left:65px;
+}
+span.b{
+   position: relative;
+   left:225px;
+}
+span.c{
+   position: relative;
+   left:295px;
+}
+span.d{
+   position: relative;
+   left:329px;
+}
+span.e{
+    position: relative;
+    left: 353px;
+}
+span.l{
+    position: relative;
+    left: 380px;
+}

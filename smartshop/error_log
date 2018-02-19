@@ -1,0 +1,107 @@
+[12-Oct-2014 21:21:00 Africa/Lagos] PHP Warning:  mysqli_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/zippcomn/public_html/supermart/cnx.php on line 4
+[12-Oct-2014 21:21:00 Africa/Lagos] PHP Warning:  mysqli_select_db($cnx,): Access denied for user 'zippcomn'@'localhost' (using password: NO) in /home/zippcomn/public_html/supermart/cnx.php on line 10
+[12-Oct-2014 21:21:00 Africa/Lagos] PHP Warning:  mysqli_select_db($cnx,): A link to the server could not be established in /home/zippcomn/public_html/supermart/cnx.php on line 10
+[12-Oct-2014 21:22:16 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/supermart/index.php on line 64
+[12-Oct-2014 21:40:40 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/supermart/index.php on line 64
+[12-Oct-2014 21:51:27 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/supermart/index.php on line 64
+[13-Oct-2014 09:01:25 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/supermart/index.php on line 64
+[13-Oct-2014 09:35:23 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/supermart/index.php on line 64
+[13-Oct-2014 09:37:00 Africa/Lagos] PHP Warning:  include(includes/logo.inc.php): failed to open stream: No such file or directory in /home/zippcomn/public_html/supermart/receipt.php on line 82
+[13-Oct-2014 09:37:00 Africa/Lagos] PHP Warning:  include(): Failed opening 'includes/logo.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/zippcomn/public_html/supermart/receipt.php on line 82
+[13-Oct-2014 10:38:42 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/supermart/index.php on line 64
+[14-Oct-2014 22:16:30 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/supermart/index.php on line 64
+[14-Oct-2014 22:16:56 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/supermart/index.php on line 64
+[14-Oct-2014 23:46:04 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/supermart/index.php on line 64
+[12-Nov-2014 19:47:54 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/supermart/index.php on line 64
+[12-Nov-2014 19:48:20 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/supermart/index.php on line 64
+[28-Nov-2014 18:09:45 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/supermart/index.php on line 64
+[22-Dec-2014 22:13:19 Africa/Lagos] PHP Warning:  mysqli_connect(): Access denied for user 'zippcomn_mart'@'localhost' (using password: YES) in /home/zippcomn/public_html/cnx.php on line 4
+[22-Dec-2014 22:13:19 Africa/Lagos] PHP Warning:  mysqli_select_db($cnx,): Access denied for user 'root'@'localhost' (using password: NO) in /home/zippcomn/public_html/cnx.php on line 10
+[22-Dec-2014 22:13:19 Africa/Lagos] PHP Warning:  mysqli_select_db($cnx,): A link to the server could not be established in /home/zippcomn/public_html/cnx.php on line 10
+[22-Dec-2014 22:13:52 Africa/Lagos] PHP Warning:  mysqli_connect(): Access denied for user 'zippcomn_mart'@'localhost' (using password: YES) in /home/zippcomn/public_html/cnx.php on line 4
+[22-Dec-2014 22:13:53 Africa/Lagos] PHP Warning:  mysqli_select_db($cnx,): Access denied for user 'root'@'localhost' (using password: NO) in /home/zippcomn/public_html/cnx.php on line 10
+[22-Dec-2014 22:13:53 Africa/Lagos] PHP Warning:  mysqli_select_db($cnx,): A link to the server could not be established in /home/zippcomn/public_html/cnx.php on line 10
+[22-Dec-2014 22:15:33 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[22-Dec-2014 22:16:12 Africa/Lagos] PHP Warning:  include(includes/logo.inc.php): failed to open stream: No such file or directory in /home/zippcomn/public_html/receipt.php on line 84
+[22-Dec-2014 22:16:12 Africa/Lagos] PHP Warning:  include(): Failed opening 'includes/logo.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/zippcomn/public_html/receipt.php on line 84
+[22-Dec-2014 22:16:48 Africa/Lagos] PHP Warning:  include(../includes/session.inc.php): failed to open stream: No such file or directory in /home/zippcomn/public_html/logout.php on line 5
+[22-Dec-2014 22:16:48 Africa/Lagos] PHP Warning:  include(): Failed opening '../includes/session.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/zippcomn/public_html/logout.php on line 5
+[22-Dec-2014 22:16:48 Africa/Lagos] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/zippcomn/public_html/logout.php on line 6
+[22-Dec-2014 22:16:48 Africa/Lagos] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/zippcomn/public_html/logout.php on line 11
+[22-Dec-2014 22:16:48 Africa/Lagos] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/zippcomn/public_html/logout.php on line 14
+[22-Dec-2014 22:18:47 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[22-Dec-2014 22:18:53 Africa/Lagos] PHP Warning:  include(../includes/session.inc.php): failed to open stream: No such file or directory in /home/zippcomn/public_html/logout.php on line 5
+[22-Dec-2014 22:18:53 Africa/Lagos] PHP Warning:  include(): Failed opening '../includes/session.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/zippcomn/public_html/logout.php on line 5
+[22-Dec-2014 22:18:53 Africa/Lagos] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/zippcomn/public_html/logout.php on line 6
+[22-Dec-2014 22:18:53 Africa/Lagos] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/zippcomn/public_html/logout.php on line 11
+[22-Dec-2014 22:18:53 Africa/Lagos] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/zippcomn/public_html/logout.php on line 14
+[22-Dec-2014 22:48:58 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[22-Dec-2014 22:57:38 Africa/Lagos] PHP Warning:  include(../includes/session.inc.php): failed to open stream: No such file or directory in /home/zippcomn/public_html/logout.php on line 5
+[22-Dec-2014 22:57:38 Africa/Lagos] PHP Warning:  include(): Failed opening '../includes/session.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/zippcomn/public_html/logout.php on line 5
+[22-Dec-2014 22:57:38 Africa/Lagos] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/zippcomn/public_html/logout.php on line 6
+[22-Dec-2014 22:57:38 Africa/Lagos] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/zippcomn/public_html/logout.php on line 11
+[22-Dec-2014 22:57:38 Africa/Lagos] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/zippcomn/public_html/logout.php on line 14
+[22-Dec-2014 22:58:07 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[22-Dec-2014 23:05:18 Africa/Lagos] PHP Warning:  include(../includes/session.inc.php): failed to open stream: No such file or directory in /home/zippcomn/public_html/logout.php on line 5
+[22-Dec-2014 23:05:18 Africa/Lagos] PHP Warning:  include(): Failed opening '../includes/session.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/zippcomn/public_html/logout.php on line 5
+[22-Dec-2014 23:05:18 Africa/Lagos] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/zippcomn/public_html/logout.php on line 6
+[22-Dec-2014 23:05:18 Africa/Lagos] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/zippcomn/public_html/logout.php on line 11
+[22-Dec-2014 23:05:18 Africa/Lagos] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/zippcomn/public_html/logout.php on line 14
+[22-Dec-2014 23:11:28 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[22-Dec-2014 23:12:16 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[22-Dec-2014 23:15:14 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[22-Dec-2014 23:24:08 Africa/Lagos] PHP Warning:  include(../includes/session.inc.php): failed to open stream: No such file or directory in /home/zippcomn/public_html/logout.php on line 5
+[22-Dec-2014 23:24:08 Africa/Lagos] PHP Warning:  include(): Failed opening '../includes/session.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/zippcomn/public_html/logout.php on line 5
+[22-Dec-2014 23:24:08 Africa/Lagos] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/zippcomn/public_html/logout.php on line 6
+[22-Dec-2014 23:24:08 Africa/Lagos] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/zippcomn/public_html/logout.php on line 11
+[22-Dec-2014 23:24:08 Africa/Lagos] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/zippcomn/public_html/logout.php on line 14
+[22-Dec-2014 23:25:30 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[22-Dec-2014 23:26:28 Africa/Lagos] PHP Warning:  include(../includes/session.inc.php): failed to open stream: No such file or directory in /home/zippcomn/public_html/logout.php on line 5
+[22-Dec-2014 23:26:28 Africa/Lagos] PHP Warning:  include(): Failed opening '../includes/session.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/zippcomn/public_html/logout.php on line 5
+[22-Dec-2014 23:26:28 Africa/Lagos] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/zippcomn/public_html/logout.php on line 6
+[22-Dec-2014 23:26:28 Africa/Lagos] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/zippcomn/public_html/logout.php on line 11
+[22-Dec-2014 23:26:28 Africa/Lagos] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/zippcomn/public_html/logout.php on line 14
+[23-Dec-2014 14:43:34 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[23-Dec-2014 14:49:02 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[23-Dec-2014 14:52:09 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[23-Dec-2014 21:57:59 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[24-Dec-2014 20:32:36 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[24-Dec-2014 20:48:59 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[24-Dec-2014 20:49:33 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[24-Dec-2014 20:52:08 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[24-Dec-2014 20:52:25 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[24-Dec-2014 20:52:43 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[24-Dec-2014 20:55:27 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[24-Dec-2014 20:56:02 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[24-Dec-2014 20:57:20 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[24-Dec-2014 21:08:27 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[24-Dec-2014 21:08:47 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[24-Dec-2014 21:09:11 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[24-Dec-2014 21:12:19 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[24-Dec-2014 21:12:57 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[24-Dec-2014 21:13:36 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[24-Dec-2014 21:14:19 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[24-Dec-2014 21:14:40 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[24-Dec-2014 21:25:14 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[24-Dec-2014 21:25:55 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[24-Dec-2014 21:26:26 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[24-Dec-2014 21:32:42 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[24-Dec-2014 21:41:06 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[24-Dec-2014 21:59:52 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[24-Dec-2014 22:00:02 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[24-Dec-2014 22:00:16 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[24-Dec-2014 22:05:04 Africa/Lagos] PHP Warning:  include(../includes/session.inc.php): failed to open stream: No such file or directory in /home/zippcomn/public_html/logout.php on line 5
+[24-Dec-2014 22:05:04 Africa/Lagos] PHP Warning:  include(): Failed opening '../includes/session.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/zippcomn/public_html/logout.php on line 5
+[24-Dec-2014 22:05:04 Africa/Lagos] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/zippcomn/public_html/logout.php on line 6
+[24-Dec-2014 22:05:04 Africa/Lagos] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/zippcomn/public_html/logout.php on line 11
+[24-Dec-2014 22:05:04 Africa/Lagos] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/zippcomn/public_html/logout.php on line 14
+[24-Dec-2014 22:05:17 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[24-Dec-2014 22:05:32 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[24-Dec-2014 22:11:03 Africa/Lagos] PHP Fatal error:  Cannot break/continue 1 level in /home/zippcomn/public_html/index.php on line 64
+[24-Dec-2014 22:12:30 Africa/Lagos] PHP Warning:  include(includes/logo.inc.php): failed to open stream: No such file or directory in /home/zippcomn/public_html/receipt.php on line 84
+[24-Dec-2014 22:12:30 Africa/Lagos] PHP Warning:  include(): Failed opening 'includes/logo.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/zippcomn/public_html/receipt.php on line 84
+[24-Dec-2014 22:12:47 Africa/Lagos] PHP Warning:  include(../includes/session.inc.php): failed to open stream: No such file or directory in /home/zippcomn/public_html/logout.php on line 5
+[24-Dec-2014 22:12:47 Africa/Lagos] PHP Warning:  include(): Failed opening '../includes/session.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/zippcomn/public_html/logout.php on line 5
+[24-Dec-2014 22:12:47 Africa/Lagos] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/zippcomn/public_html/logout.php on line 6
+[24-Dec-2014 22:12:47 Africa/Lagos] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/zippcomn/public_html/logout.php on line 11
+[24-Dec-2014 22:12:47 Africa/Lagos] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/zippcomn/public_html/logout.php on line 14
